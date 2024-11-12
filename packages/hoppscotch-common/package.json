@@ -68,7 +68,7 @@
     "io-ts": "2.2.20",
     "js-yaml": "4.1.0",
     "jsonc-parser": "3.3.1",
-    "jsonpath-plus": "7.2.0",
+    "jsonpath-plus": "10.0.7",
     "lodash-es": "4.17.21",
     "lossless-json": "3.0.2",
     "minisearch": "6.3.0",
